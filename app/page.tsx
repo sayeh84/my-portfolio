@@ -17,13 +17,6 @@ export default function Page() {
         className="w-100 h-120  mb-6"
       />
 
-      <Image
-        src="/bild7.JPG"
-        alt="Min profilbild"
-        width={200}
-        height={200}
-        className="w-100 h-120  mb-6"
-      />
       {/* Sociala medier */}
       <div className="flex flex-col space-y-4 w-full max-w-xs">
         <a
