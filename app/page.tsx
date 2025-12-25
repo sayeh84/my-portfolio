@@ -17,7 +17,7 @@ export default function Page() {
       />
 
       {/* Username */}
-      <h1 className="text-lg font-semibold mb-6">@someya_sayeh_boukris</h1>
+      <h2 className="text-lg font-semibold mb-6">@someya_sayeh_boukris</h2>
 
       {/* Ikoner */}
       <div className="flex space-x-6 text-2xl">
