@@ -11,7 +11,7 @@ export default function Page() {
     <main className="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4 text-gray-900">
       {/* Profilbild */}
       <img
-        src="/bild2.JPG"
+        src="/bild7.JPG"
         alt="Profilbild"
         className="w-32 h-32 rounded-full object-cover mb-4"
       />
